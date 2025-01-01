@@ -10,3 +10,4 @@ A simple console-based program for managing student records, grades, and subject
 
 ## How to Run
 1. Clone this repository: https://github.com/HamdySalah/StudentGradeManagementSystem
+2. Demo : https://drive.google.com/drive/folders/1_5UP-bOhVz1X5DNHPH_AhDh0Shf7xI-Z?usp=sharing
